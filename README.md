@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hola 👋
 
+Soy José, desarrollador backend y un poco de frontend. Actualmente tengo intereses en el análisis de datos y aprendizaje autónomo, estoy en ese camino de aprendizaje.
 <!--
 **JosseG/JosseG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
